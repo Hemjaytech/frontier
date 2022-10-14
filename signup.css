@@ -1,0 +1,44 @@
+.navbar-brand img{
+    max-width: 130px;
+    padding-left: 30px;
+}
+
+#nav-bar
+{ 
+    position: sticky;
+    top:0;
+    z-index: 50;
+    box-shadow: 0 2px 5px rgb(89, 85, 85);
+    background-color: white;
+}
+
+.navbar-nav li
+{
+    padding: 3px 2px;
+}
+
+.navbar-nav li a
+{
+ text-align: left;
+ font-weight: 500;
+}
+
+
+/* ------------Signup pagw------------------ */
+body
+{
+    background: #383a3d;
+}
+
+h1
+{
+    padding-bottom: 3%;
+}
+
+.container
+{
+    background: white;
+    box-shadow: 0 2px 5px rgb(89, 85, 85);
+    padding: 3%;
+    border-radius: 7px;
+}

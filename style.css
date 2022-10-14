@@ -1,0 +1,219 @@
+    /* --------------Navigation Bar--------------- */
+
+    .navbar-brand img{
+        max-width: 130px;
+        padding-left: 30px;
+    }
+
+    #nav-bar
+    { 
+        position: sticky;
+        top:0;
+        z-index: 50;
+        box-shadow: 0 2px 5px rgb(89, 85, 85);
+        background-color: white;
+    }
+
+    .navbar-nav li
+    {
+        padding: 3px 2px;
+    }
+
+    .navbar-nav li a
+    {
+    text-align: left;
+    font-weight: 500;
+    }
+
+
+    /* ----------------Hero Banner-------------- */
+
+    #hero-banner
+    {
+        color: white;
+    }
+
+    .header-wrap
+    {
+        background-image:linear-gradient(rgba(0, 0, 0, 0.261),rgba(26, 25, 25, 0.446)),url(img/full-slider.jpg);
+        background-size: cover;
+        background-position: center;
+        padding-top: 100px;
+        padding-bottom: 100px;
+        text-align: left;
+        color: white;
+    }
+
+    .header-wrap h1
+    {
+        font-size: 50px;
+        font-weight: 600;
+    }
+
+    #more
+    {
+        padding-top: 3%;
+        padding-bottom: 3%;
+    }
+
+    #more h2
+    {
+        padding-bottom: 3%;
+        text-align: center;
+    }
+
+
+
+
+    /* -- -------------------Fund rasing platform--------------------- */
+
+    #fund h3
+    {
+        text-align: center;
+        padding: 2.5% 0;
+        background-color: #00a9ff;
+        font-weight: 400;
+        color: white;
+    }
+
+    #fund .row
+    {
+        padding: 4% 0;
+    }
+
+    #fund h5
+    {
+        padding-top: 10%;
+        padding-bottom: 3%;
+        font-weight: bold;
+    }
+
+    #fund p
+    {
+        text-align: left;
+        font-size: 16;
+    }
+
+
+    #Why-Choose
+    {
+        background-color: rgba(230, 230, 250, 0.391);
+        padding: 5% 0;
+    }
+
+    #Why-Choose p
+    {
+        padding-top: 5%;
+        text-align: left;
+        font-size: 18;
+    }
+
+    #body-card
+    {
+        padding-bottom: 4%;
+        background-color: rgba(230, 230, 250, 0.391);
+    }
+
+    #body-card .row
+    {
+        margin: 0 20;
+    }
+
+
+    #body-card h4
+    {
+        text-align: center;
+        padding: 3% 0;
+        color: red;
+    }
+
+
+    #get-started
+    {
+        padding-top: 3%;
+        padding-bottom: 5%;
+    }
+
+    #get-started img
+    {
+        padding-top: 5%;
+    }
+
+    #get-started a
+    {
+        background-color: rgb(255, 123, 0);
+        color: rgb(255, 255, 255);
+        border-radius: 7px;
+        font-weight: bold;
+    }
+
+
+  
+
+/* -----------------------Address---------------- */
+#contact h1
+{
+    color: white;
+    padding-top: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px
+}
+
+.follow
+{
+    color:white;
+    padding-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+
+.cont-hd
+{
+    color: white;
+    padding-top: 50px;
+    font-size: 19px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+    
+}
+
+#contact form
+
+{
+    background-color: rgb(134, 151, 146);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 7px;
+}
+
+
+    /* --------------login page------------------- */
+    #login
+    {
+        padding-top: 5%;
+        padding-bottom: 11%;
+        background: #383a3d;
+    }
+
+     .hideFormBtn1
+    {
+       justify-items: center;
+       padding-top: 20px;
+    }
+
+    #login .form-container
+    {
+        background-color:white;
+        padding: 50px 50px;
+        box-shadow: 0 2px 5px rgb(28, 153, 175);
+        border-radius: 10px;
+    }
+
+
+
+    #footer
+    {
+        background-color: black;
+        color: white;
+    }
